@@ -1,0 +1,11 @@
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\bin\Release\proje1.exe.config
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\bin\Release\proje1.exe
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\bin\Release\proje1.pdb
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\prolab1.csprojAssemblyReference.cache
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\proje1.Form1.resources
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\proje1.Form2.resources
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\proje1.Properties.Resources.resources
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\prolab1.csproj.GenerateResource.cache
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\prolab1.csproj.CoreCompileInputs.cache
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\proje1.exe
+D:\Projelerim\prolab2Projeleri (tam)\prolab1\proje1\proje1\obj\Release\proje1.pdb

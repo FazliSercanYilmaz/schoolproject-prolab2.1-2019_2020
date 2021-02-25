@@ -1,0 +1,11 @@
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.csprojAssemblyReference.cache
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.Form1.resources
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.Form2.resources
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.Properties.Resources.resources
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.csproj.GenerateResource.cache
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.csproj.CoreCompileInputs.cache
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\bin\Debug\proje1.exe.config
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\bin\Debug\proje1.exe
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\bin\Debug\proje1.pdb
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.exe
+C:\Users\bigse\OneDrive\Masaüstü\dersler\prolab\sonproject11\proje1\proje1\obj\Debug\proje1.pdb
